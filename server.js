@@ -31,18 +31,6 @@ let quotes = [
     quote: "Believe you can and you're halfway there.",
     source: "Theodore Roosevelt",
   },
-  {
-    id: 6,
-    quote:
-      "Happiness is not something ready made. It comes from your own actions.",
-    source: "Dalai Lama",
-  },
-  {
-    id: 7,
-    quote: "The purpose of our lives is to be happy.",
-    source: "Dalai Lama",
-  },
-
 ];
 
 // Middleware
